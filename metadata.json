@@ -1,0 +1,6 @@
+{
+  "name": "جوهرة الحظ - Fortune Gem Slot",
+  "description": "لعبة سلوت جوهرة الحظ الشهيرة مع البكرة الخاصة ومضاعفات الأرباح وعجلة الحظ الذهبية وخاصية الرهان الإضافي EX ومستويات رهان تبدأ من 500 حتى 300,000 كونزة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
